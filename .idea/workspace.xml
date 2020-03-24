@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a1311a6-1ab7-4279-876a-e2f2899cc6bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled120/pl/veihicle/www/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled120/pl/veihicle/www/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled120/pl/veihicle/www/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled120/pl/veihicle/www/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/veihicle/www/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/veihicle/www/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/veihicle/www/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/veihicle/www/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +65,31 @@
       <option name="presentableId" value="Default" />
       <updated>1584970970788</updated>
     </task>
+    <task id="LOCAL-00001" summary="Message isn't">
+      <created>1585048700663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585048700663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Message isn't" />
+    <option name="LAST_COMMIT_MESSAGE" value="Message isn't" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="70" y="59" width="1509" height="801" key="CommitChangelistDialog2" timestamp="1585048337924">
+    <state x="70" y="59" width="1509" height="801" key="CommitChangelistDialog2" timestamp="1585048699729">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="70" y="59" width="1509" height="801" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585048337924" />
+    <state x="70" y="59" width="1509" height="801" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585048699729" />
     <state x="580" y="143" key="FileChooserDialogImpl" timestamp="1585047176276">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -109,5 +122,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="182" y="57" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1584995237804" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1585048810761">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1585048810761" />
   </component>
 </project>
