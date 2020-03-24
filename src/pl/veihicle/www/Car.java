@@ -24,17 +24,36 @@ public class Car {
     }
 
     //metoda statyczna - klasy;
-    public static boolean is5PersonCar(int amountOfDoor){
-        if(amountOfDoor>3);
+    public static boolean is5PersonCar(int amountOfDoor) {
+        if (amountOfDoor > 3) ;
         return true;
     }
 
     //metody egzemplarza;
-    public double howOldIs(double year){
+    public double howOldIs(double year) {
         return yearOfProduction;
     }
-    private double getMileage(){
+
+    public double getMileage() {
         return mileage;
     }
 
+    public String getName() {
+        return mark;
+    }
+
+    public double getPriceBruttoVat() {
+        return priceNetto * priceBruttoVat + priceNetto;
+    }
+
+    public double getPriceNetto() {
+        return priceNetto;
+    }
+
+    public double getSpeedMax() {
+        return speedMax;
+    }
+
+
 }
+
